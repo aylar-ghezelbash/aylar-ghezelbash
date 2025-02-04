@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Aylar, Lets connect on [twitter](https://x.com/aylarghezelbash)
+
 <!--
 **aylar-ghezelbash/aylar-ghezelbash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
